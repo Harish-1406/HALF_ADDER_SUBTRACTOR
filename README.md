@@ -76,4 +76,5 @@ RegisterNumber: 212224040104 */
 
 
 **Result:**
+
 The output of HALF_ADDER_SUBTRACTOR has been executed successfully.
